@@ -407,21 +407,6 @@
           {
             "matcher": {
               "id": "byName",
-              "options": "Total Rounds"
-            },
-            "properties": [
-              {
-                "id": "color",
-                "value": {
-                  "fixedColor": "rgba(38, 38, 38, 1)",
-                  "mode": "fixed"
-                }
-              }
-            ]
-          },
-          {
-            "matcher": {
-              "id": "byName",
               "options": "Wins"
             },
             "properties": [
